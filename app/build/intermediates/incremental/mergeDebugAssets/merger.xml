@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="24.0.0"><source path="D:\android_studio_4_6\speex\speex\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\assets"/></dataSet><dataSet config="main"><source path="D:\android_studio_4_6\speex\speex\app\src\main\assets"/><source path="D:\android_studio_4_6\speex\speex\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="D:\android_studio_4_6\speex\speex\app\src\debug\assets"/></dataSet></merger>
